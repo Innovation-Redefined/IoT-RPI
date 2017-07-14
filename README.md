@@ -10,21 +10,24 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Python 3 
+1) Python 3 
 
-Django 
+2) Django 
 
-Node JS
+3) Node JS
 
 
 ### Installing
 
 ```
 $ sudo apt-get install python3
+
 $ pip install django
 
 $ sudo apt-get install python-software-properties
+
 $ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+
 $ sudo apt-get install nodejs
 ```
 
@@ -32,7 +35,6 @@ Clone this Repository using
 Make sure that git is installed
 ```
 $ git clone https://github.com/naveensiva/IOT-RPI.git
-
 ```
 
 
@@ -67,6 +69,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Naveen Siva Gurumohanram** - (https://github.com/naveensiva)
+* **Abinesh** - (https://github.com/Abinesh1991)
 
 See also the list of [contributors](https://github.com/naveensiva/IOT-RPI/contributors) who participated in this project.
 
