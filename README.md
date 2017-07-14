@@ -1,6 +1,6 @@
-# IOT-RPI
+# IoT-RPI
 
-Internet Of Things using Raspberry Pi, The Pi is designed from the start for benevolent hackers. It can be turned into a media centre, an office computer, a firewall, a weather station, a wildlife camera or a drone controller – with a little programming.
+Internet of Things using Raspberry Pi, The Pi is designed from the start for benevolent hackers. It can be turned into a media centre, an office computer, a firewall, a weather station, a wildlife camera or a drone controller – with a little programming.
 
 
 
