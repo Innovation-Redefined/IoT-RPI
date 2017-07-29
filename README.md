@@ -34,7 +34,7 @@ $ sudo apt-get install nodejs
 Clone this Repository using
 Make sure that git is installed
 ```
-$ git clone https://github.com/naveensiva/IOT-RPI.git
+$ git clone https://github.com/Innovation-Redefined/IoT-RPI.git
 ```
 
 
