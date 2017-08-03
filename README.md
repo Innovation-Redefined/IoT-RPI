@@ -75,5 +75,5 @@ See also the list of [contributors](https://github.com/naveensiva/IOT-RPI/contri
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE [LICENSE.md](LICENSE) file for details
+This project is licensed under the GNU GENERAL PUBLIC LICENSE refer [LICENSE.md](LICENSE) file for details
 
